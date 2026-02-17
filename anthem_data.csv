@@ -1,0 +1,6 @@
+member_id,claim_id,claim_amount,service_date,payer_name
+101,5001,1200,2025-01-05,anthem
+102,5002,850,2025-01-07,anthem
+103,5003,430,2025-01-09,anthem
+104,5004,2200,2025-01-10,anthem
+105,5005,1500,2025-01-12,anthem

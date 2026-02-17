@@ -1,0 +1,6 @@
+member_id,claim_id,claim_amount,service_date,payer_name
+301,7001,500,2025-03-01,manual
+302,7002,750,2025-03-02,manual
+303,7003,620,2025-03-03,manual
+304,7004,890,2025-03-04,manual
+305,7005,1000,2025-03-05,manual

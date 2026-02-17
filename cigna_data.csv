@@ -1,0 +1,6 @@
+member_id,claim_id,claim_amount,service_date,payer_name
+201,6001,900,2025-02-01,cigna
+202,6002,1100,2025-02-03,cigna
+203,6003,760,2025-02-05,cigna
+204,6004,1400,2025-02-07,cigna
+205,6005,300,2025-02-10,cigna
